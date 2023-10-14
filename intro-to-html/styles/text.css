@@ -1,0 +1,31 @@
+p{
+    font-family: Oswald;
+    font-size: 18px;
+    width: 284px;
+    color: #606060;
+    line-height: 22px;
+  }
+  .video-title{
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 24px;
+   color: black;
+   margin-bottom: 0px;
+  }
+
+  .video-details{
+    margin-top: 5px;
+  }
+
+  .apple-banner{
+    margin-top: 100px;
+    width:auto;
+    background-color: #e34140;
+    color: white;
+    text-align: center;
+    padding: 16px;
+  }
+
+.shop-link:hover{
+  text-decoration: underline;
+}
